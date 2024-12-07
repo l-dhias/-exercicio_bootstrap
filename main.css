@@ -1,0 +1,25 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(45deg, blue , #fff , red  );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    width: 450px;
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 9px;
+    color: black;
+}
+
+form {
+    margin-bottom: 20px ;
+}
